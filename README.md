@@ -1,2 +1,2 @@
 # FirstGitHub
-progetto prova Git e GitHub
+Progetto per smanettare con Git e GitHub
